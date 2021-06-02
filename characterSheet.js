@@ -1,19 +1,19 @@
 const data = {
-  name: 'Claudio',
-  player: 'Ryan',
-  occupation: 'Caçador',
-  age: 21,
+  name: 'Lupin III',
+  player: 'Gazineli',
+  occupation: 'Ladrão',
+  age: 24,
   sex: 'male',
-  birthplace: 'São paulo',
-  residence: 'São paulo',
+  birthplace: 'Japão',
+  residence: 'Japão',
 
   life: {
-    current: 12,
-    max: 12,
+    current: 8,
+    max: 8,
   },
   sanity: {
-    current: 62,
-    max: 62,
+    current: 10,
+    max: 10,
   },
 
   weapons: [
@@ -43,43 +43,43 @@ const data = {
   attributes: [
     {
       type: 'Aparência',
-      amount: 10,
+      amount: 2,
     },
     {
       type: 'Constituição',
-      amount: 10,
+      amount: 3,
     },
     {
       type: 'Destreza',
-      amount: 10,
+      amount: 4,
     },
     {
       type: 'Educação',
-      amount: 10,
+      amount: 18,
     },
     {
       type: 'Força',
-      amount: 10,
+      amount: 4,
     },
     {
       type: 'Inteligência',
-      amount: 10,
+      amount: 6,
     },
     {
       type: 'Poder',
-      amount: 10,
+      amount: 2,
     },
     {
       type: 'Sorte',
-      amount: 10,
+      amount: 2,
     },
     {
       type: 'Movimento',
-      amount: 10,
+      amount: 7,
     },
     {
-      type: '?',
-      amount: 10,
+      type: 'tamanho',
+      amount: 5,
     },
   ],
 }
